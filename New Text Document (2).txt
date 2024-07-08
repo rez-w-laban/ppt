@@ -2,10 +2,16 @@ prjct name
 
 introduction
 
-case study
+similar projects 
 
-implementation
+erd 
 
-main features
+usecase
 
-goals
+//case study
+
+//implementation
+
+//main features
+
+conclusion
